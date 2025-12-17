@@ -45,7 +45,7 @@ The assistant exposes a **GET endpoint** for retrieving generated and processed 
     "answer": "..."
   }
 }
-
+```
 
 ## 🔹 Installation & Requirements
 
@@ -58,7 +58,7 @@ pip install -r requirements.txt
 
 python app.py
 
-
+```
 ## 🔹 Project Goal
 
 This project was developed as a practical session exercise to demonstrate:
